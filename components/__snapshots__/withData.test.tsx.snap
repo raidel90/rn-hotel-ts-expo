@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`withData should display a loading screen when data is undefined 1`] = `<LoadingScreen />`;
